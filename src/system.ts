@@ -1,12 +1,8 @@
 /**
  * This file contains functions for working with the REST API v2.0.
- *
- * TODO - add additional endpoints.
  */
 
-import {} from "./types";
-
-import { TSAPIv2, getFullV2Endpoint } from "./rest-api-v2.0";
+import { TSAPIv2 } from "./rest-api-v2.0";
 
 /***************************************** Types ************************************************/
 
