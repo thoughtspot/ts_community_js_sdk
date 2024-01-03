@@ -65,8 +65,8 @@ would send to the API directly. Note that all calls are asynchronous.
 The following shows how to find the user details for an individual user:
 
 ```
-    api.users.search({ user_identifier: "some-user" }).then((users) => {
-      console.log(users);
-    });
+api.users.search({ user_identifier: "some-user" }).then((users) => {
+  console.log(users);
   });
+});
 ```
