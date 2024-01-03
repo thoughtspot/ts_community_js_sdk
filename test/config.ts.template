@@ -1,0 +1,8 @@
+/** Constants needed for testing.  Set for the appropriate environment and save as config.ts. */
+
+export const config = {
+  tsURL: "https://xxx.thoughtspot.cloud",
+  username: "user@domain.com",
+  password: "password",
+  orgId: "0",
+};
